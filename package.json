@@ -8,7 +8,9 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "test:e2e": "jest -c e2e/jest.config.js e2e",
+    "test:percy": "percy exec -- yarn test:e2e"
   },
   "dependencies": {
     "@nuxtjs/bulma": "^1.2.1",
