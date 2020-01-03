@@ -11,8 +11,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
-    "@nuxtjs/bulma": "^1.2.1"
+    "@nuxtjs/bulma": "^1.2.1",
+    "nuxt": "^2.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@percy/puppeteer": "^1.0.8",
+    "jest": "^24.9.0",
+    "jest-puppeteer": "^4.4.0"
+  }
 }
