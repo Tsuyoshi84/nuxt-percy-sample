@@ -1,10 +1,12 @@
 # nuxt-percy-sample
 
-> My laudable Nuxt.js project
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/Tsuyoshi-Yamaguchi/nuxt-percy-sample)
+
+Nuxt.js で構築した Percy のデモプロジェクトです。
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
