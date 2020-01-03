@@ -1,5 +1,6 @@
 # nuxt-percy-sample
 
+[![CircleCI](https://circleci.com/gh/Tsuyoshi84/nuxt-percy-sample.svg?style=svg)](https://circleci.com/gh/Tsuyoshi84/nuxt-percy-sample)
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/Tsuyoshi-Yamaguchi/nuxt-percy-sample)
 
 Nuxt.js で構築した Percy のデモプロジェクトです。
