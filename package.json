@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@percy/puppeteer": "^1.0.8",
-    "jest": "^24.9.0",
+    "jest": "^26.5.2",
     "jest-puppeteer": "^4.4.0"
   }
 }
